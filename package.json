@@ -1,0 +1,16 @@
+{
+  "name": "praneeth-dhath-portfolio",
+  "version": "1.0.0",
+  "description": "Official website of Praneeth Dhath showcasing AI projects, programming skills, portfolio, achievements, and contact information.",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'",
+    "lint": "echo 'No linter configured'"
+  },
+  "author": "Praneeth Dhath",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}

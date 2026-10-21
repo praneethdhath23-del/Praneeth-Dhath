@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 🌐 Live Website
 
-Coming soon — I'll add my Vercel URL here after deployment.
+https://praneethdhath.vercel.app/
 
 ## 🚀 Features
 
